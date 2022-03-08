@@ -1,4 +1,4 @@
 # 1ADSHTML
 html
 
-sim
+simnao
